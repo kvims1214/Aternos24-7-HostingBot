@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endersmpp.mcsh.io",
-    "port": 12032,
+    "ip": "kvims_SMP.aternos.me",
+    "port": 61785,
     "version": "1.21.11"
   },
   "position": {
