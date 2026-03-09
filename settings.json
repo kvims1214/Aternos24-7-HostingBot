@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "endersmppp.falix.gg",
-    "port": 22454,
+    "ip": "endersmpp.mcsh.io",
+    "port": 12032,
     "version": "1.21.11"
   },
   "position": {
